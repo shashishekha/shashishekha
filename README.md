@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shashi shekhar
 - 👀 I’m interested in creating revenue generating products. 
-- 🌱 I’m currently learning Full Stack Data Science. 
+- I’m currently learning Full Stack Data Science as well as dsa. 
 
 <!---
 shashishekha/shashishekha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
